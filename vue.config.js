@@ -1,3 +1,5 @@
+const path = require('path')
+
 module.exports = {
   css: {
     loaderOptions: {
@@ -9,5 +11,8 @@ module.exports = {
       },
     },
   },
-  publicPath: process.env.NODE_ENV == 'production' ? '/docs/' : '/'
+  outputDir: path.resolve(__dirname, "./docs"),
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/AliakbarSu.github.io.test/'
+  : '/'
 };
