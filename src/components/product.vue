@@ -107,6 +107,7 @@ export default {
   border-left: 0;
   border-right: 0;
   padding: 10px 0;
+  font-weight: bold;
 }
 
 .c-productDescription {
@@ -137,6 +138,8 @@ export default {
   .c-productSize {
     padding: 15px 18px;
     border: 1px solid $border-light-grey;
+    margin-right: 5px;
+    font-size: 12px;
     &:hover {
       cursor: pointer;
       transition: 0.2s;

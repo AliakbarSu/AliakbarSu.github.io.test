@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bda872c93717a1b5412",
-    "url": "/AliakbarSu.github.io.test/css/app.00cab8ca.css"
+    "revision": "93e775dc35c336f6b3c9",
+    "url": "/AliakbarSu.github.io.test/css/app.4c01eca8.css"
   },
   {
     "revision": "e0f5b90e5b9ee989e54d27e5689f1789",
     "url": "/AliakbarSu.github.io.test/img/classic-tee.e0f5b90e.jpg"
   },
   {
-    "revision": "95d9ec82f976fd5d24566ce0b9aee89d",
+    "revision": "00ce3a9a1a960f74b150a30ccaf72510",
     "url": "/AliakbarSu.github.io.test/index.html"
   },
   {
-    "revision": "1bda872c93717a1b5412",
-    "url": "/AliakbarSu.github.io.test/js/app.fb89a6f9.js"
+    "revision": "93e775dc35c336f6b3c9",
+    "url": "/AliakbarSu.github.io.test/js/app.a11af46d.js"
   },
   {
     "revision": "7e51fd8d78abdfc135dd",

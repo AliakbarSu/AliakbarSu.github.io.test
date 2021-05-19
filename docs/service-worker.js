@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AliakbarSu.github.io.test/precache-manifest.17b8531e4c61d7d12e4895a605804651.js"
+  "/AliakbarSu.github.io.test/precache-manifest.f0f7a7de00c8d50164b152cc4e04d2db.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "test"});
