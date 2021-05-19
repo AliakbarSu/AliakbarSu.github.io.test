@@ -1,32 +1,23 @@
 <template>
   <div class="c-image">
-   <img src="https://drive.google.com/file/d/0B8KYnbdnrRGXSXVoMzdqRWhCTXc/view?usp=sharing"/>
+    <img
+      alt="t-shirt image"
+      class="e-image"
+      src="../assets/images/classic-tee.jpg"
+    />
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
-  props: {
-    msg: String,
-  },
+  name: "Image",
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+.e-image {
+    width: 100%;
+    height: auto;
 }
 </style>
