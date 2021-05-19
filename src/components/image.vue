@@ -17,7 +17,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .e-image {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 </style>
